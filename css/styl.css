@@ -1,0 +1,59 @@
+/*
+
+ ___         ___      
+| . |._ _ _ | . | _ _ 
+| | || ' ' ||   || '_>
+`___'|_|_|_||_|_||_|  
+                      
+
+
+*/
+html {
+  scroll-behavior: smooth;
+}
+a {
+  color: white;
+  font-size: 15px;
+}
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #fdfdfd;
+}
+img {
+  width: 95%;
+  max-width: 450px;
+}
+
+nav {
+  text-align: center;
+  background-color: #3a3a3a;
+  font-size: 37px;
+  padding: 20px 3px;
+  font-weight: 700;
+  color: white;
+}
+nav p {
+  text-shadow: 2px 2px 4px #9a9a9a;
+  padding: 0;
+  margin: 0;
+}
+
+#heading {
+  background-color: #454545;
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
+
+section {
+  padding: 5px 4%;
+}
+.student {
+  text-align: center;
+  
+}
+footer {
+  text-align: center;
+  padding: 5px 10px;
+}
